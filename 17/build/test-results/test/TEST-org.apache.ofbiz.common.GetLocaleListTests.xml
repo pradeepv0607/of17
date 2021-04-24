@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.ofbiz.common.GetLocaleListTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-04-24T11:23:08" hostname="pradeep-Inspiron-15-3567" time="3.385">
+  <properties/>
+  <testcase name="frenchLocaleName" classname="org.apache.ofbiz.common.GetLocaleListTests" time="3.088"/>
+  <testcase name="frenchLocaleString" classname="org.apache.ofbiz.common.GetLocaleListTests" time="0.122"/>
+  <testcase name="frenchNoDuplicates" classname="org.apache.ofbiz.common.GetLocaleListTests" time="0.175"/>
+  <system-out><![CDATA[2021-04-24 16:53:09,845 |Test worker          |UtilURL                       |W| No ofbiz.home property set in environment
+2021-04-24 16:53:09,859 |Test worker          |UtilURL                       |W| No ofbiz.home property set in environment
+2021-04-24 16:53:09,860 |Test worker          |UtilURL                       |W| No ofbiz.home property set in environment
+2021-04-24 16:53:09,865 |Test worker          |GroovyUtil                    |W| The following error occurred during the initialization of Groovy: Error loading Groovy script at [ofbizhome://framework/base/config/GroovyInit.groovy]:  (The Java environment (-Dxxx=yyy) variable with name ofbiz.home is not set, cannot resolve location.)
+2021-04-24 16:53:09,870 |Test worker          |ScriptUtil                    |I| The following 2 scripting engines were found:
+2021-04-24 16:53:09,870 |Test worker          |ScriptUtil                    |I| Engine name: Oracle Nashorn
+2021-04-24 16:53:09,872 |Test worker          |ScriptUtil                    |I|   Version: 1.8.0_282
+2021-04-24 16:53:09,872 |Test worker          |ScriptUtil                    |I|   Language: ECMAScript
+2021-04-24 16:53:09,872 |Test worker          |ScriptUtil                    |I|   Engine supports the following extensions:
+2021-04-24 16:53:09,872 |Test worker          |ScriptUtil                    |I|     js
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I|   Engine has the following short names:
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I|     nashorn
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I|     Nashorn
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I|     js
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I|     JS
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I|     JavaScript
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I|     javascript
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I|     ECMAScript
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I|     ecmascript
+2021-04-24 16:53:09,873 |Test worker          |ScriptUtil                    |I| Engine name: Groovy Scripting Engine
+2021-04-24 16:53:09,874 |Test worker          |ScriptUtil                    |I|   Version: 2.0
+2021-04-24 16:53:09,874 |Test worker          |ScriptUtil                    |I|   Language: Groovy
+2021-04-24 16:53:09,874 |Test worker          |ScriptUtil                    |I|   Engine supports the following extensions:
+2021-04-24 16:53:09,874 |Test worker          |ScriptUtil                    |I|     groovy
+2021-04-24 16:53:09,874 |Test worker          |ScriptUtil                    |I|   Engine has the following short names:
+2021-04-24 16:53:09,874 |Test worker          |ScriptUtil                    |I|     groovy
+2021-04-24 16:53:09,874 |Test worker          |ScriptUtil                    |I|     Groovy
+2021-04-24 16:53:11,041 |Test worker          |UtilURL                       |W| No ofbiz.home property set in environment
+2021-04-24 16:53:11,043 |Test worker          |UtilURL                       |W| No ofbiz.home property set in environment
+2021-04-24 16:53:11,044 |Test worker          |UtilURL                       |W| No ofbiz.home property set in environment
+2021-04-24 16:53:11,046 |Test worker          |UtilURL                       |W| No ofbiz.home property set in environment
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

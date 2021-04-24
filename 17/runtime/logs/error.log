@@ -1,0 +1,1 @@
+2021-04-24 16:53:12,408 |Test worker          |UtilCodec                     |E| Canonicalization (format consistency, character escaping that is mixed or double, etc) error for attribute named [double-encoding], String [%2%353Cscript]: org.apache.ofbiz.base.util.UtilCodec$IntrusionException: Input validation failure

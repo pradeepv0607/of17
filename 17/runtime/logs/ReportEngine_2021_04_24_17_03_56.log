@@ -1,0 +1,58 @@
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.api.impl.ReportEngine <init>
+FINE: ReportEngine created. EngineConfig: EngineConfig: tmpDir=/home/pradeep/Desktop/apache-ofbiz-17.12.05/runtime/tempfiles;logDest=/home/pradeep/Desktop/apache-ofbiz-17.12.05/runtime/logs/;logLevel=FINE;org.eclipse.birt.report.engine.api.EngineConfig.scriptObjects={};org.eclipse.birt.report.engine.api.EngineConfig.emitterConfigs={html=org.eclipse.birt.report.engine.api.HTMLEmitterConfig@4bbf38b8}; 
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportitemGeneration
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadGenerationExtensionDefns
+FINE: Load generation extension: Chart
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportitemPresentation
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadPresentationExtensionDefns
+FINE: Load prsentation extension: Chart
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportitemQuery
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadQueryExtensionDefns
+FINE: Load query extension: Chart
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.emitters
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load html emitter org.eclipse.birt.report.engine.emitter.html
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load pdf emitter org.eclipse.birt.report.engine.emitter.pdf
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load postscript emitter org.eclipse.birt.report.engine.emitter.postscript
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load ppt emitter org.eclipse.birt.report.engine.emitter.ppt
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load xls emitter org.eclipse.birt.report.engine.emitter.prototype.excel
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load doc emitter org.eclipse.birt.report.engine.emitter.word
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load docx emitter org.eclipse.birt.report.engine.emitter.docx
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load pptx emitter org.eclipse.birt.report.engine.emitter.pptx
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load odp emitter org.eclipse.birt.report.engine.emitter.odp
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load ods emitter org.eclipse.birt.report.engine.emitter.prototype.ods
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load odt emitter org.eclipse.birt.report.engine.emitter.odt
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load xlsx emitter uk.co.spudsoft.birt.emitters.excel.XlsxEmitter
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load xls_spudsoft emitter uk.co.spudsoft.birt.emitters.excel.XlsEmitter
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportEventHandler
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportItemPreparation
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.dataExtraction
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadDataExtractionExtensions
+FINE: Load data extraction extension: org.eclipse.birt.report.engine.dataextraction.csv
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.extendedItemFactory
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadExtendedItems
+FINE: Load extendedItem extension: Crosstab
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadExtendedItems
+FINE: Load extendedItem extension: CrosstabCell
+Apr 24, 2021 5:03:56 PM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadExtendedItems
+FINE: Load extendedItem extension: AggregationCell
